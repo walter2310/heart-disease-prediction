@@ -50,9 +50,9 @@ El algoritmo de Random Forest permite entrenar "n" árboles de decisión de mane
 Los resultados del modelo reflejan un buen desempeño en la clasificación:
 
 Model Score: 0.9854
-Accuracy: 98.5% (indica que el modelo predice correctamente la mayoría de las instancias)
-Precision: 100.0% (el modelo no generó falsos positivos, mostrando una alta precisión en las predicciones positivas)
-Recall: 97.1% (el modelo identificó correctamente el 97.1% de los casos positivos reales)
-F1 Score: 98.5% (el balance entre precision y recall es óptimo, lo que resalta su fiabilidad)
+- **Accuracy**: 98.5% (indica que el modelo predice correctamente la mayoría de las instancias)
+- **Precision**: 100.0% (el modelo no generó falsos positivos, mostrando una alta precisión en las predicciones positivas)
+- **Recall**: 97.1% (el modelo identificó correctamente el 97.1% de los casos positivos reales)
+- **F1 Score**: 98.5% (el balance entre precision y recall es óptimo, lo que resalta su fiabilidad)
 
 ![Predicción realizada](./reports/matriz-confusion-heart.png)
