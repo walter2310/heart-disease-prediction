@@ -26,6 +26,7 @@ Otro insight interesante que se puede observar es que las personas con enfermeda
 ![Gráfica ](./reports/age.png)
 
 El algoritmo de Random Forest permite entrenar "n" árboles de decisión de manera independiente, utilizando diferentes subconjuntos de datos y características. Para problemas de clasificación, el resultado final se selecciona mediante votación por mayoría, considerando la clase que más veces predicen los árboles.
+
 ![Ejemplo del funcionamiento de Random Forest](./reports/random-forests.png)
 
 # Pasos para Inicializar el Proyecto
@@ -54,4 +55,4 @@ Precision: 100.0% (el modelo no generó falsos positivos, mostrando una alta pre
 Recall: 97.1% (el modelo identificó correctamente el 97.1% de los casos positivos reales)
 F1 Score: 98.5% (el balance entre precision y recall es óptimo, lo que resalta su fiabilidad)
 
-![Predicción realizada](./reports/figures/prediccion_con_regresion_lineal.png)
+![Predicción realizada](./reports/matriz-confusion-heart.png)
